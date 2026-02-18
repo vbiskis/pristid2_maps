@@ -1,0 +1,63 @@
+# junk
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+# pkgdown site
+docs/
+
+# translation temp files
+po/*~
+
+# RStudio Connect folder
+rsconnect/
+
+# outdated/old
+05_hs/
+09_occupancy/
+10_citsci/
+v1/
+fig3.s3/
+
+# additional analyses/output
+alt/ 
+ext/
+to_cln/
+original/
+draft/
+
+# non R output
+fig1/
+fig13/
+
+# large files
+*.tiff
+*.rds
+
+# and folders WITH large files
+gis/
+
+# data files
+*.xlsx
+*.csv
