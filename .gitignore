@@ -61,3 +61,6 @@ gis/
 # data files
 *.xlsx
 *.csv
+
+# mac files
+*.DS_Store
