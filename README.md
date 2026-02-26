@@ -1,4 +1,6 @@
-# pristid2_maps
+# pristid2_space
+
+(*and time really*)
 
 This repo contains R code re: the analyses for the manuscript: 
 
@@ -6,13 +8,13 @@ This repo contains R code re: the analyses for the manuscript:
 
 Additional output is outlined in the completed PhD thesis:
 
-> Biskis, V. N., Schoeman, D., Townsend, K. Holmes, B. J., & Wueringer, B. E. (2026). [Ch. 3: Putting sawfishes back on the map...] In: Threatened sawfishes of Australia: Spatial ecology and species composition through time. PhD Dissertation. *University of the Sunshine Coast*, (https://doi.org/10.25907/01001)
+> Biskis, V. N. (2026). [Ch. 3: Putting sawfishes back on the map...] In: Threatened sawfishes of Australia: Spatial ecology and species composition through time. PhD Dissertation. *University of the Sunshine Coast*, (https://doi.org/10.25907/01001)
 
 ------------------------------------------------------------------------
 
 ## Author: Nikki Biskis
 
-PhD Candidate UniSC | SARA
+PhD UniSC | SARA
 Date: 2025-12-10
 
 ------------------------------------------------------------------------
